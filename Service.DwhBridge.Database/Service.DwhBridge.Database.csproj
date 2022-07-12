@@ -14,10 +14,10 @@
         <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       </PackageReference>
       <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.6" />
-      <PackageReference Include="MyJetWallet.Sdk.NoSql" Version="2.2.7" />
+      <PackageReference Include="MyJetWallet.Sdk.NoSql" Version="2.2.8" />
       <PackageReference Include="MyJetWallet.Sdk.Service" Version="2.2.4" />
-      <PackageReference Include="MyJetWallet.Service.HighYieldEngine.Client" Version="1.1.2" />
-      <PackageReference Include="MyNoSqlServer.DataReader" Version="1.8.10" />
+      <PackageReference Include="MyJetWallet.Service.HighYieldEngine.Client" Version="1.1.4" />
+      <PackageReference Include="MyNoSqlServer.DataReader" Version="1.8.11" />
     </ItemGroup>
 
 </Project>
