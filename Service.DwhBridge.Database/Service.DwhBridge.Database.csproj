@@ -8,16 +8,16 @@
 
     <ItemGroup>
       <PackageReference Include="FlexLabs.EntityFrameworkCore.Upsert" Version="6.0.1" />
-      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.6" />
-      <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.6">
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.7" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.7">
         <PrivateAssets>all</PrivateAssets>
         <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       </PackageReference>
-      <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.6" />
-      <PackageReference Include="MyJetWallet.Sdk.NoSql" Version="2.2.8" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.7" />
+      <PackageReference Include="MyJetWallet.Sdk.NoSql" Version="2.2.11" />
       <PackageReference Include="MyJetWallet.Sdk.Service" Version="2.2.4" />
-      <PackageReference Include="MyJetWallet.Service.HighYieldEngine.Client" Version="1.1.4" />
-      <PackageReference Include="MyNoSqlServer.DataReader" Version="1.8.11" />
+      <PackageReference Include="MyJetWallet.Service.HighYieldEngine.Client" Version="1.1.6" />
+      <PackageReference Include="MyNoSqlServer.DataReader" Version="1.8.13" />
     </ItemGroup>
 
 </Project>
